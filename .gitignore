@@ -21,6 +21,9 @@ my_saved_models/
 fine_tuned_model/
 02_LLM/test_trainer/checkpoint-39/
 02_LLM/test_trainer/
+04_LangChain_RAG/sks-chromadb
+*.sqlite3
+04_LangChain_RAG/sks-chromadb/chroma.sqlite3
 
 # =====================
 # ENVIRONMENT & LOGS
